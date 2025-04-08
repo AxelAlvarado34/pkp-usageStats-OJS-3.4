@@ -1,3 +1,5 @@
+# ❇️ USAGE STATS PLUGIN FOR OJS 3.4+
+
 ```
 =============================================================
 === Usage Statistics Plugin update for ojs 3.4+
